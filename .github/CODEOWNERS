@@ -1,0 +1,18 @@
+# Code Owners for TexnoPlatform
+
+# Everyone who contributes
+* @your-username
+
+# Frontend team
+/src/app @your-username
+
+# Backend team
+/src/api @your-username
+/src/db @your-username
+
+# Documentation
+/*.md @your-username
+
+# Configuration
+/package.json @your-username
+/tsconfig.json @your-username
